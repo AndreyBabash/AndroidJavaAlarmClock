@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-19154abe47ca706cdff7458823a4d5e597f9def0.jar" />
+    </item>
+    <item
+        jar="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-01b791ccf44bac4745af70be577bc9903ea53363.jar" />
+    </item>
+    <item
+        jar="G:\Installed Programs\Ext.SDK\PlatformSDKs\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-97aed980f2349804e565e7e84f14266bb8616038.jar" />
+    </item>
+    <item
+        jar="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\exploded-aar\com.android.support\design\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-114ba135c248741ff9b61f63af82e5011bbfa0f2.jar" />
+    </item>
+    <item
+        jar="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-542bb2f48d6bc77e1c68df9942fd7c8c353b4b3b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\classes\debug
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-97aed980f2349804e565e7e84f14266bb8616038.jar
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-114ba135c248741ff9b61f63af82e5011bbfa0f2.jar
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-01b791ccf44bac4745af70be577bc9903ea53363.jar
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-542bb2f48d6bc77e1c68df9942fd7c8c353b4b3b.jar
+G:\C_All\AlarmClock\alarmclockapp\build\intermediates\pre-dexed\debug\classes-19154abe47ca706cdff7458823a4d5e597f9def0.jar
